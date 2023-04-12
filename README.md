@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wagtale an amutaur programmer 
-- 👀 I’m interested in ... tinkering
-- 🌱 I’m currently learning ... html and python
-- 📫 How to reach me ... twitter
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... html,css.javascript and python
+- 📫 How to reach me ... @LucWag@mastodon.social
 
 <!---
 wagtale/wagtale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
